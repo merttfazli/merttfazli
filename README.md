@@ -1,9 +1,3 @@
-Merhaba! Benim adım Mert . GitHub profilimde hoş geldiniz.
-
-Bir yazılım geliştirici olarak tutkulu, öğrenmeye açık ve yeniliklere meraklıyım. Yazılım dünyasında keşfettiğim her yeni teknoloji ve projede heyecan duyuyorum. Hem bireysel olarak hem de ekip halinde çalışmayı severim. GitHub profilimdeki projelerim, hem kişisel ilgi alanlarımı yansıtan deneyimlerimi sergilemekte hem de toplulukla paylaşmayı amaçladığım açık kaynaklı projeleri içermektedir. Ayrıca, kendimi sürekli olarak geliştirmek ve başkalarına yardımcı olmak için burada projelerimin kaynak kodları paylaşıyorum. Yazılım dünyasındaki güncel gelişmeleri takip ediyor ve yeni teknolojilerle deneyler yapmayı seviyorum. lütfen bana ulaşmaktan çekinmeyin.
-
-Teşekkürler ve iyi kodlamalar!
-<hr>
 Hello! My name is Mert. Welcome to my GitHub profile.
 
 As a software developer, I am passionate, open to learning, and curious about innovations in the software world. I get excited about every new technology and project I come across. I enjoy working both individually and as part of a team. My GitHub projects include both personal experiences that reflect my areas of interest and open-source projects that I aim to share with the community. Furthermore, I share the source code of my projects here to continuously improve myself and help others. I keep up with the latest developments in the software world and enjoy experimenting with new technologies. Please feel free to reach out to me.
