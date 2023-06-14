@@ -21,5 +21,6 @@ Thank you and happy coding!
 
 <hr>
 
-![snake gif](https://github.com/merttfazli/merttfazli/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/merttfazli/merttfazli/output/github-contribution-grid-snake.svg" />
+
 
