@@ -19,5 +19,7 @@ Thank you and happy coding!
 
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=merttfazli&show_icons=true&bg_color=00000000)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merttfazli&layout=compact)
 
+<hr>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
