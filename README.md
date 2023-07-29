@@ -21,6 +21,3 @@ Thank you and happy coding!
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/merttfazli/merttfazli/output/github-contribution-grid-snake.svg" />
-
-
