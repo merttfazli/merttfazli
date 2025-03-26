@@ -1,6 +1,10 @@
 Hello! My name is Mert. Welcome to my GitHub profile.
 
-As a software developer, I am passionate, open to learning, and curious about innovations in the software world. I get excited about every new technology and project I come across. I enjoy working both individually and as part of a team. My GitHub projects include both personal experiences that reflect my areas of interest and open-source projects that I aim to share with the community. Furthermore, I share the source code of my projects here to continuously improve myself and help others. I keep up with the latest developments in the software world and enjoy experimenting with new technologies. Please feel free to reach out to me.
+I am a software developer. I like learning new things and exploring new technologies. I feel excited about new projects and technologies.
+
+On my GitHub, you can find my personal projects and open-source projects. I share my code to improve myself and help others. I follow new developments in software and enjoy trying new technologies.
+
+Feel free to contact me.
 
 Thank you and happy coding!
 <hr>
